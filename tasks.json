@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Library App",
+			"type": "shell",
+			"command": "python",
+			"args": [
+				"app.py"
+			],
+			"isBackground": true
+		}
+	]
+}
